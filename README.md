@@ -169,6 +169,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kevinmenpara&show_icons=true" />
 </picture> -->
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinmenpara&show_icons=true&hide=stars,contribs&hide_rank=true&show=prs_merged_percentage)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinmenpara&show_icons=true&hide=stars,contribs&hide_rank=true&show=prs_merged_percentage&theme=dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmenpara&hide=SCSS,PHP&hide_progress=true)](https://github.com/kevinmenpara/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmenpara&hide=SCSS,PHP&hide_progress=true&theme=dark&hide_border=true)](https://github.com/kevinmenpara/github-readme-stats)
