@@ -1,6 +1,5 @@
 <!-- Header Image -->
 
-![MasterHead](https://st3.depositphotos.com/1047356/16370/v/450/depositphotos_163707468-stock-illustration-software-development-background.jpg)
 <!-- Title and Introduction -->
 <h1 align="center">Hi, Myself Kevin Menpara</h1>
 <h2 align="center">A Software Developer from India</h2>
