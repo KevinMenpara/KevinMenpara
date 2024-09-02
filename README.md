@@ -13,7 +13,7 @@
 - 📫 How to reach me: **[kevinmenpara2208@gmail.com](mailto:kevinmenpara2208@gmail.com)**
 
 
-[![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinMenpara&theme=transparent)](https://github.com/KevinMenpara/)
+<!---[![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinMenpara&theme=dark)](https://github.com/KevinMenpara/)--->
 
 <!---# 🏆GitHub Trophies
 
