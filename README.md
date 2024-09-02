@@ -1,9 +1,10 @@
 <!-- Header Image -->
-
-<!-- Title and Introduction -->
 <h1 align="center">Hi, Myself Kevin Menpara</h1>
+<!-- <img align="right" src="https://visitcount.itsvg.in/api?id=KevinMenpara&label=Profile%20views&color=1&icon=5&pretty=true" alt="Kevin Menpara" />
+ -->
 <h2 align="center">A Software Developer from India</h2>
-<h3 align="center">Crafting Innovative Solutions with Code and Creativity</h3>
+<!-- <h3 align="center">Crafting Innovative Solutions with Code and Creativity</h3>
+ -->
 
 <!-- Learning and Projects -->
 - 🌱 I’m currently learning **Blockchain & Cryptocurrencies**
@@ -11,16 +12,31 @@
 - 📝 I regularly view articles on [Morning Brew](https://www.morningbrew.com/daily)
 - 📫 How to reach me: **[kevinmenpara2208@gmail.com](mailto:kevinmenpara2208@gmail.com)**
 
+
+[![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinMenpara&theme=transparent)](https://github.com/KevinMenpara/)
+
+<!---# 🏆GitHub Trophies
+
+![a](https://github-profile-trophy.vercel.app/?username=KevinMenpara&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
+
+<!---# 📊 Github Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KevinMenpara&show_icons=true&locale=en&layout=compact&theme=tokyonight)      
+![Top Languages](https://github-readme-stats.vercel.app/api?username=KevinMenpara&show_icons=true&locale=en&theme=tokyonight) 
+![Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=KevinMenpara&show_icons=true&locale=en&theme=tokyonight)-->
+<!-- Title and Introduction -->
+
+
+
+## 🌐 Socials
 <!-- Social Links -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/kevin-menpara-b7379322a/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-menpara-b7379322a/) 
+[![Resume](https://img.shields.io/badge/Resume-8A2BE2?logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1J0x_aiWE7SiEJq6S8lv_Ck1W_UPVqhhT/view)
+
 
 <!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
+## 💻 Languages and Tools
+
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -169,6 +185,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kevinmenpara&show_icons=true" />
 </picture> -->
 
+## 📊 Github Stats
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinmenpara&show_icons=true&hide=stars,contribs&hide_rank=true&show=prs_merged_percentage&theme=dark&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmenpara&hide=SCSS,PHP&hide_progress=true&theme=dark&hide_border=true)](https://github.com/kevinmenpara/github-readme-stats)
